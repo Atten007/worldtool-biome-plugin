@@ -1,0 +1,17 @@
+[
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{WorldTool:{Brush:\"example:snow\",BrushSettings:{Requires:[\"area\"],MaxSize:39}}}"
+    },
+    {
+        "function": "minecraft:set_lore",
+        "lore": [
+            {"nbt":"Translation.\"wt_example.lore.selected_brush.snow\"","storage": "worldtool:storage","color": "yellow","italic": false},
+            "",
+            {"nbt":"Translation.\"lore.brush.1\"","storage": "worldtool:storage","interpret": true,"italic": false},
+            {"nbt":"Translation.\"lore.brush.2\"","storage": "worldtool:storage","interpret": true,"italic": false}
+        ],
+        "entity": "this",
+        "replace": true
+    }
+]
