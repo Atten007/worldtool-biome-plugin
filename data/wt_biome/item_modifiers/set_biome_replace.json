@@ -1,0 +1,14 @@
+{
+    "function": "minecraft:copy_nbt",
+    "source": {
+        "type": "minecraft:storage",
+        "source": "worldtool:storage"
+    },
+    "ops": [
+        {
+            "op": "replace",
+            "source": "Temp.BiomePlugin.ReplaceBiomes",
+            "target": "WorldTool.BrushSettings.BiomePlugin.ReplaceBiomes"
+        }
+    ]
+}

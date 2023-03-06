@@ -1,0 +1,65 @@
+# List of all biome IDs, a select color (usually the grass color), and their names
+
+the_void 8eb971 The Void
+plains 91BD59 Plains
+sunflower_plains 91BD59 Sunflower Plains
+snowy_plains 80B497 Snowy Plains
+ice_spikes 80B497 Ice Spikes
+desert BFB755 Desert
+swamp 6A7039 Swamp
+mangrove_swamp 6A7039 Mangrove Swamp
+forest 79C05A Forest
+flower_forest 79C05A Flower Forest
+birch_forest 88BB67 Birch Forest
+dark_forest 507A32 Dark Forest
+old_growth_birch_forest 88BB67 Old Growth Birch Forest
+old_growth_pine_taiga 86B87F Old Growth Pine Taiga
+old_growth_spruce_taiga 86B783 Old Growth Spruce Taiga
+taiga 86B783 Taiga
+snowy_taiga 80B497 Snowy Taiga
+savanna bfb755 Savanna
+savanna_plateau bfb755 Savanna Plateau
+windswept_hills 8AB689 Windswept Hills
+windswept_gravelly_hills 8AB689 Windswept Gravelly Hills
+windswept_forest 8AB689 Windswept Forest
+windswept_savanna BFB755 Windswept Savanna
+jungle 59C93C Jungle
+sparse_jungle 64C73F Sparse Jungle
+bamboo_jungle 59C93C Bamboo Jungle
+badlands 90814D Badlands
+eroded_badlands 90814D Eroded Badlands
+wooded_badlands 90814D Wooded Badlands
+meadow 83BB6D Meadow
+grove 80B497 Grove
+snowy_slopes 80B497 Snowy Slopes
+frozen_peaks 80B497 Frozen Peaks
+jagged_peaks 80B497 Jagged Peaks
+stony_peaks 9ABE4B Stony Peaks
+river 3F76E4 River
+frozen_river 3938C9 Frozen River
+beach 91BD59 Beach
+snowy_beach 83B593 Snowy Beach
+stony_shore 8AB689 Stony Shore
+warm_ocean 43D5EE Warm Ocean
+lukewarm_ocean 45ADF2 Lukewarm Ocean
+deep_lukewarm_ocean 45ADF2 Deep Lukewarm Ocean
+ocean 3F76E4 Ocean
+deep_ocean 3F76E4 Deep Ocean
+cold_ocean 3D57D6 Cold Ocean
+deep_cold_ocean 3D57D6 Deep Cold Ocean
+frozen_ocean 3938C9 Frozen Ocean
+deep_frozen_ocean 3938C9 Deep Frozen Ocean
+mushroom_fields 55C93F Mushroom Fields
+dripstone_caves 91BD59 Dripstone Caves
+lush_caves 8EB971 Lush Caves
+deep_dark 91BD59 Deep Dark
+nether_wastes 854242 Nether Wastes
+warped_forest 14b485 Warped Forest
+crimson_forest bd3031 Crimson Forest
+soul_sand_valley 73f9fd Soul Sand Valley
+basalt_deltas 747474 Basalt Deltas
+the_end f6fabd The End
+end_highlands f6fabd End Highlands
+end_midlands f6fabd End Midlands
+small_end_islands f6fabd Small End Islands
+end_barrens f6fabd End Barrens

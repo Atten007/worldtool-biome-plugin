@@ -1,5 +1,5 @@
 {
     "values": [
-        "wt_example:process_start/common/setup_process"
+        "wt_biome:process_start/common/setup_process"
     ]
 }

@@ -1,0 +1,33 @@
+[
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{WorldTool:{BrushSettings:{BiomePlugin:{Biome:\"minecraft:frozen_peaks\"}}}}"
+    },
+    {
+        "function": "minecraft:set_lore",
+        "lore": [
+            {"nbt":"Translation.\"lore.selected_brush.none\"","storage": "worldtool:storage","color": "yellow","italic": false},
+            {"nbt":"Translation.\"wt_biome.lore.selected_biome\"","storage": "worldtool:storage","color": "light_purple","italic": false},
+            {"nbt":"Translation.\"wt_biome.biome.frozen_peaks\"","storage": "worldtool:storage","color": "aqua","italic": false},
+            "",
+            {"nbt":"Translation.\"lore.brush.1\"","storage": "worldtool:storage","interpret": true,"italic": false},
+            {"nbt":"Translation.\"lore.brush.2\"","storage": "worldtool:storage","interpret": true,"italic": false}
+        ],
+        "entity": "this",
+        "replace": true
+    },
+    {
+       "function": "copy_nbt",
+       "source": {
+           "type":"minecraft:context",
+           "target": "this"
+       },
+       "ops": [
+           {
+           "op": "replace",
+           "source": "SelectedItem.tag.display.Lore[0]",
+           "target": "display.Lore[0]"
+           }
+       ]
+    }
+]
