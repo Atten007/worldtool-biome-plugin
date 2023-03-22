@@ -1,7 +1,7 @@
 # Called by the language/en_us hook (#worldtool:language/en_us)
 # Adds translations to the English (US) language
 
-data modify storage worldtool:storage Translation."wt_biome.info" set value '["",{"text":"Biome Plugin","color":"#60cc02","bold":true}," for WorldTool 0.6.1"]'
+data modify storage worldtool:storage Translation."wt_biome.info" set value '["",{"text":"Biome Plugin","color":"#60cc02"}," for WorldTool 0.6.1"]'
 data modify storage worldtool:storage Translation."wt_biome.warning.outdated" set value "Warning: Outdated WorldTool version for the Biome Plugin. The required version is 0.6.1."
 
 data modify storage worldtool:storage Translation."wt_biome.process.biome" set value "Replace Biome"
