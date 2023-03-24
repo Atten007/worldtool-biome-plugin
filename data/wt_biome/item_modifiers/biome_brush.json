@@ -1,7 +1,7 @@
 [
     {
         "function": "minecraft:set_nbt",
-        "tag": "{WorldTool:{Brush:\"worldtool:biome_plugin\",BrushSettings:{Requires:[\"area\"],MinSize:1,MaxSize:39},BiomePlugin:{Biome:\"minecraft:plains\"}}}"
+        "tag": "{WorldTool:{Brush:\"worldtool:biome_plugin\",BrushSettings:{Requires:[\"area\"],MinSize:1,MaxSize:39,BiomePlugin:{Biome:\"minecraft:plains\"}}}}"
     },
     {
         "function": "minecraft:set_lore",
