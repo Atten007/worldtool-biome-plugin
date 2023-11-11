@@ -64,3 +64,4 @@ execute if entity @s[tag=wt_biome.place_biome.end_highlands] run data modify sto
 execute if entity @s[tag=wt_biome.place_biome.end_midlands] run data modify storage worldtool:storage Processes[0].Tags append value "wt_biome.process.biome.place.end_midlands"
 execute if entity @s[tag=wt_biome.place_biome.small_end_islands] run data modify storage worldtool:storage Processes[0].Tags append value "wt_biome.process.biome.place.small_end_islands"
 execute if entity @s[tag=wt_biome.place_biome.end_barrens] run data modify storage worldtool:storage Processes[0].Tags append value "wt_biome.process.biome.place.end_barrens"
+execute if entity @s[tag=wt_biome.place_biome.cherry_grove] run data modify storage worldtool:storage Processes[0].Tags append value "wt_biome.process.biome.place.cherry_grove"
