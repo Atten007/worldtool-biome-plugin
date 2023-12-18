@@ -63,3 +63,4 @@ end_highlands f6fabd End Highlands
 end_midlands f6fabd End Midlands
 small_end_islands f6fabd Small End Islands
 end_barrens f6fabd End Barrens
+cherry_grove d1a7ca Cherry Grove
